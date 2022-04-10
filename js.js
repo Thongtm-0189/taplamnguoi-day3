@@ -20,7 +20,7 @@ var array1 = {
 var array2 = {
     avt: "Thông",
     name: "Minh",
-    detail: "Cảm ơn đang quan tâm."
+    detail: "Cảm ơn đã quan tâm."
 }
 
 var array3 = {
